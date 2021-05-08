@@ -1,0 +1,35 @@
+
+x
+java:S1450"VRemove the "mitjana" field and declare it as a local variable in the relevant methods.(¡üÜÿÿÿÿÿ8•‡ˆÉ”/
+U	java:S106@"9Replace this use of System.out or System.err by a logger.(î×ã§8Ú¸åÆ”/
+n
+java:S20952"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(ì¹ëÿÿÿÿÿ8ËŸ¦½”/
+t
+java:S1450"RRemove the "aux" field and declare it as a local variable in the relevant methods.(£•Â›øÿÿÿÿ8ÈÚ´½”/
+p
+java:S1450"TRemove the "datos" field and declare it as a local variable in the relevant methods.(™½¿e8¯°¶½”/
+@
+java:S1659
+"#Declare "ipSrv" on a separate line.(Êˆ®™8ÜùÖÇ”/
+Z	java:S106b"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8ƒÒ¨»”/
+D
+java:S1068
+"'Remove this unused "Nom" private field.(Êˆ®™8ÜùÖÇ”/
+j	java:S116
+"NRename this field "Nom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êˆ®™8ÜùÖÇ”/
+I
+java:S1068	",Remove this unused "resultat" private field.(©¼‹®8İóÚÇ”/
+J
+java:S1172M"-Remove this unused method parameter "length".(öÛõß8¬©ƒ¼”/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(«æÜûÿÿÿÿ
+4
+java:S2757O"Was "+=" meant instead?(Ç¸çê8ÌœÊÇ”/
+]	java:S125I"<This block of commented-out lines of code should be removed.(Õù„ıøÿÿÿÿ8°¿úÈ”/
+O
+java:S1068"-Remove this unused "portDesti" private field.(“¸´·øÿÿÿÿ8ÜùÖÇ”/
+Z	java:S106V"9Replace this use of System.out or System.err by a logger.(Ù¥¹­úÿÿÿÿ8âæåÆ”/
+L
+java:S1068"/Remove this unused "recivedData" private field.(Ñ§¨ë8¦ÑÙÇ”/
+Q
+java:S1068"/Remove this unused "adrecaDesti" private field.(íŒ’êùÿÿÿÿ8é¬¦»”/
+]	java:S125G"<This block of commented-out lines of code should be removed.(Õù„ıøÿÿÿÿ8–ìÑÇ”/
