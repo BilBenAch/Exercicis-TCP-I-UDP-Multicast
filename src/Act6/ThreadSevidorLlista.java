@@ -56,14 +56,14 @@ public class ThreadSevidorLlista implements Runnable {
     }
 
     //mètode per no colpsar el bucle de execució, tree set perque ordeni y torni no repetits
-    public Llista generaResposta(Llista en) {
-        Set<Integer> sortedAndDistinct = new TreeSet<>(en.getNumberList());
+    public Llista generaResposta(Llista llista) {
+        Set<Integer> sortedAndDistinct = new TreeSet<>(llista.getNumberList());
 
         //creem una nova llista y pasem els valors del tree set si no no funciona
         List<Integer> arrayList = new ArrayList<>(sortedAndDistinct);
 
         //objecte ordenat y sense repetir
-        Llista ret = new Llista(en.getNom(), arrayList);
+        Llista ret = new Llista(llista.getNom(), arrayList);
         acabat = false;
 
         return ret;
